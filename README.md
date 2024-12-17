@@ -15,6 +15,10 @@
 - Custom Color
 - Able to add Background Image
 - Different Shapes
+## DOWNLOAD AND INSTALL
+
+
+- Download link: [Click here](https://drive.google.com/file/d/1v0Dr8j4ZTl9gAx1e9OXDZmtOhCxr_cdy/view?usp=drivesdk),
 
 
 ## LIVE DEMO
@@ -28,9 +32,5 @@
 
 
 
-## DOWNLOAD AND INSTALL
-
-
-- Download link: [Click here](https://drive.google.com/file/d/1v0Dr8j4ZTl9gAx1e9OXDZmtOhCxr_cdy/view?usp=drivesdk),
 
 
